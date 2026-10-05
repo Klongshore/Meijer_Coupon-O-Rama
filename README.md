@@ -1,6 +1,6 @@
 # Meijer Coupon-O-Rama
 
-A C# (.NET 8) command-line app for managing digital grocery coupons: clip them, search them,
+A C# (.NET 10) command-line app for managing digital grocery coupons: clip them, search them,
 and see how much you save at checkout.
 
 ## Projects

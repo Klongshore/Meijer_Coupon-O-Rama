@@ -1,0 +1,5 @@
+[
+  { "sku": "MILK-2PCT-GAL", "name": "Meijer 2% Milk, 1 gal", "unitPrice": 3.49, "quantity": 2 },
+  { "sku": "COFFEE-12OZ", "name": "Ground Coffee 12 oz", "unitPrice": 8.99, "quantity": 1 },
+  { "sku": "BANANAS-LB", "name": "Bananas (lb)", "unitPrice": 0.59, "quantity": 4 }
+]
